@@ -19,8 +19,7 @@ SEE ALSO
         Base class for kramerius4 script.
 
     Data::Kramerius
-        Information about all Kramerius systems.Information about all
-        Kramerius systems.
+        Information about all Kramerius systems.
 
     WebService::Kramerius::API4
         Class to Kramerius v4+ API.

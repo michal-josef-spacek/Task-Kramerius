@@ -44,7 +44,7 @@ Base class for kramerius4 script.
 
 =item L<Data::Kramerius>
 
-Information about all Kramerius systems.Information about all Kramerius systems.
+Information about all Kramerius systems.
 
 =item L<WebService::Kramerius::API4>
 
